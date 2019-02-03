@@ -1,4 +1,4 @@
-# NavWalkAssist-N.W.A
+# NavWalkAssist(N.W.A)
 PennApps XIX Project
 
 CREDIT
