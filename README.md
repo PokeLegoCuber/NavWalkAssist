@@ -6,6 +6,6 @@ NavWalkAssist(N.W.A) is the white cane improved. This project uses a Arduino, a 
 Visit the website here: https://pokelegocuber.github.io/NavWalkAssist/
 
 ### CREDIT
-ULtrasonic/Distance code:
+Ultrasonic/Distance code:
 
 https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
